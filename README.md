@@ -3,7 +3,7 @@
 <p align='center'>
     <b>A simple HTTP proxies checker made in C#.</b><br>
     <br>
-    <img src='https://media.discordapp.net/attachments/849633315078144050/921018052471062528/unknown.png'>
+    <img src='https://cdn.discordapp.com/attachments/900817601649864705/921030778408816640/2021-12-16_14-26-48.mp4'>
 </p>
 
 > # TO DO
