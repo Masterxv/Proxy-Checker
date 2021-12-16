@@ -1,3 +1,0 @@
-D:\Scripts\C#\ProxyChecker\ProxyChecker\obj\Debug\net5.0-windows\ProxyChecker.csproj.AssemblyReference.cache
-D:\Scripts\C#\ProxyChecker\ProxyChecker\obj\Debug\net5.0-windows\ProxyChecker.Form1.resources
-D:\Scripts\C#\ProxyChecker\ProxyChecker\obj\Debug\net5.0-windows\ProxyChecker.csproj.GenerateResource.cache
